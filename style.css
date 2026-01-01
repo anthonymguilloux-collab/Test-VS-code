@@ -17,6 +17,7 @@ body {
 
 p {
     font-size: 1.1em;
+    color : #f9F8FF;
 }
 
 em {
@@ -24,12 +25,15 @@ em {
   font-style: normal;
 }
 
-div {
-    color: #242424;
+.en_tete, .pied_de_page {
     background-color: white;
 }
 
-p, h2, li {
+h2, li {
     color: #F9F8FF;
-    background-color:darkblue;
+}
+
+.cta {
+  background: linear-gradient(#8e86b5, #acaeed);
+  color: white;
 }
