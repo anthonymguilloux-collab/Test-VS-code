@@ -12,6 +12,7 @@ h1 {
 body {
     font-family: 'Manrope', sans-serif;
     font-size: 1em;
+    background-color: #1F2039;
 }
 
 p {
@@ -21,4 +22,14 @@ p {
 em {
   color: #a5b4fc;
   font-style: normal;
+}
+
+div {
+    color: #242424;
+    background-color: white;
+}
+
+p, h2, li {
+    color: #F9F8FF;
+    background-color:darkblue;
 }
