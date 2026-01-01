@@ -36,7 +36,7 @@ h2, li {
 .cta {
   background: linear-gradient(#8e86b5, #acaeed);
   color: white;
-  border-radius: 50px 50px 50px 50px;
+  border-radius: 50px;
 }
 
 .contenu {
@@ -49,6 +49,10 @@ a:hover {
 }
 
 .cta:hover {
-    color: linear-gradient(#696484, #8788BA);
+    background: linear-gradient(#696484, #8788BA);
+    text-decoration: none;
 }
 
+.lien_icone:hover {
+    opacity: 0.5;
+}
