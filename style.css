@@ -193,6 +193,6 @@ nav a {
   display: none;
 }
 
-.lien-conteneur-photo:hover .photo-hover {
+.lien-conteneur-photo:hover .photo-hover:hover {
   display: flex;
 }
